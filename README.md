@@ -1,3 +1,3 @@
 ﻿# Second Largest Number
  
- <img src = "FindSecondLargestNumber.png">
+ <img src = "FindSecondLargestNumber.png" align= "center">
